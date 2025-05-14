@@ -66,7 +66,7 @@ Você pode dar um duplo clique no arquivo `index.html` ou abrir com a extensão 
 ## Deploy
 
 - **Página publicada via GitHub Pages:**  
-  [https://lucaxjordo.github.io/atividade-fds-lucas](https://lucaxjordo.github.io/atividade-fds-lucas)
+  [https://lucaxjordo.github.io/atividade-fds-lucas](https://lucaxjordo.github.io/atv-uninter-fds/)
 
 ---
 
