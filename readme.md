@@ -74,7 +74,7 @@ Você pode dar um duplo clique no arquivo `index.html` ou abrir com a extensão 
 
 **Lucas Vinícius de Oliveira**  
 Aluno do curso de Análise e Desenvolvimento de Sistemas, UNINTER  
-- LinkedIn: [lucasxoliva](https://www.linkedin.com/in/lucasxoliva/)
+- LinkedIn: [Lucas Oliveira](https://www.linkedin.com/in/lucasxoliva/)
 
 ---
 
