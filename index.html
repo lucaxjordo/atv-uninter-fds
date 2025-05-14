@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas Oliveira</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lucas Vinícius de Oliveira</h1>
+    </header>
+    
+    <main>
+        <section class="biografia">
+            <h2>Sobre Mim</h2>
+            <p>
+                Olá! Meu nome é Lucas Vinícius de Oliveira, tenho 31 anos e moro em Belo Horizonte.
+                Atualmente estou estudando desenvolvimento de software, com o objetivo de me tornar um Dev. FullStack!
+        
+            </p>
+        </section>
+
+        <section class="hobbies">
+            <h2>Meus Hobbies</h2>
+            <ul>
+                <li>Programação competitiva</li>
+                <li>Aprender novos idiomas</li>
+                <li>Literatura</li>
+            </ul>
+            
+            <div class="hobby-imagem">
+                <img src="/images/call-unsplash.jpg" alt="Tela de um notebook durante videochamada com outras pessoas, com uma caneca de café ao lado" />
+                <p class="legenda">Em minha jornada aprendendo inglês, amo conversar com nativos!</p>
+            </div>
+        </section>
+
+        <section class="destinos">
+            <h2>Países que desejo visitar</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>País</th>
+                        <th>Imagem</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Japão</td>
+                        <td><img src="/images/fuji-san-unsplash.jpg" alt="Japão - Monte Fuji" /></td>
+                    </tr>
+                    <tr>
+                        <td>Islândia</td>
+                        <td><img src="/images/iceland-unsplash.jpg " alt="Islândia - Aurora Boreal" /></td>
+                    </tr>
+                    <tr>
+                        <td>Nova Zelândia</td>
+                        <td><img src="/images/zeland-milford-sound-unsplash.jpg" alt="Nova Zelândia - Milford Sound" /></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="site-favorito">
+            <a href="https://leetcode.com" target="_blank" class="leetcode-link">
+                <div class="icon">
+                    <div class="leetcode-icon"></div>
+                </div>
+                <div class="content">
+                    <h2>Meu site preferido para treinar programação</h2>
+                    <p>
+                        O LeetCode é onde aprimoro minhas habilidades de resolução de problemas e algoritmos. 
+                        A plataforma oferece milhares de desafios de programação em diversos níveis de 
+                        dificuldade, tornando-se essencial para minha preparação para entrevistas técnicas 
+                        e para manter minha lógica de programação afiada.
+                    </p>
+                </div>
+            </a>
+        </section>
+
+        <section class="motivacao">
+            <h2>Também está aprendendo programação? Tenho algo pra te dizer!</h2>
+            <button id="mensagemBtn" class="motivacao-btn">Abra sua mensagem</button>
+            <div id="mensagemContainer" class="mensagem-container"></div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 - Desenvolvido por Lucas Vinícus de Oliveira</p>
+            <div class="social-links">
+                <a href="https://github.com/lucaxjordo" target="_blank" class="social-icon github-icon">GitHub</a>
+                <a href="https://www.linkedin.com/in/lucasxoliva/" target="_blank" class="social-icon linkedin-icon">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
